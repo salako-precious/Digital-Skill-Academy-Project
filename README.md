@@ -12,9 +12,12 @@ The dataset contains information scraped from Amazon product pages, including:
 • Each row represents a unique product, with aggregated reviewer data stored as comma-separated values
 Total Records: 1,465 rows TotalFields: 16 columns
 
-## Analysis Task 
+## Analysis Task/Final Task: Dashboard Creation
+Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your Creativit
 
 
-## Final Task: Dashboard Creation
-Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your Creativity
+# DATA ANALYSIS USING SQL 
+## OVERVIEW 
+Kultra Mega Stores (KMS), headquartered in Lagos, specialises in offi ce supplies and furniture. Its customer base includes individual consumers, small businesses (retail), and large corporate clients (wholesale) across Lagos, Nigeria.
+You have been engaged as a Business Intelligence Analyst to support the Abuja division of KMS. The Business Manager has shared an Excel file containing order data from 2009 to 2012 and has requested that you analyze the data and present your key insights and findings.
 
